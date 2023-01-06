@@ -1,0 +1,1811 @@
+1662041287633	geckodriver	INFO	Listening on 127.0.0.1:53886
+1662041290712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilefFlgwK"
+1662041291084	Marionette	INFO	Marionette enabled
+1662041291090	Marionette	INFO	Listening on port 53896
+Read port: 53896
+WebDriver BiDi listening on ws://127.0.0.1:53887
+1662041291255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilefFlgwK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53887/devtools/browser/394213fa-2c7d-4fd6-b0a4-3b0f3d88cb46
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: quickactions-addons
+[fluent] Missing message in locale es-ES: quickactions-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-clearhistory
+[Parent 11612, Main Thread] WARNING: ContentParent: id=239de204a00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 11612, Main Thread] WARNING: ContentParent: id=239df476100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 11612, Main Thread] WARNING: ContentParent: id=239dcef3000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662041303647	Marionette	INFO	Stopped listening on port 53896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11612, Main Thread] WARNING: ContentParent: id=239dcef3000 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 11612, Main Thread] WARNING: ContentParent: id=239dcef3000 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 11612, Main Thread] WARNING: ContentParent: id=239dcef3000 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 11612, Main Thread] WARNING: ContentParent: id=239dcef3000 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662042397669	geckodriver	INFO	Listening on 127.0.0.1:54133
+1662042400732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileBhd1HQ"
+1662042400973	Marionette	INFO	Marionette enabled
+1662042400977	Marionette	INFO	Listening on port 54143
+WebDriver BiDi listening on ws://127.0.0.1:54134
+Read port: 54143
+1662042401094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileBhd1HQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54134/devtools/browser/38a89694-11d9-4119-9b5a-a6732194bbc6
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+[Parent 3352, Main Thread] WARNING: ContentParent: id=1a4092c2a00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 3352, Main Thread] WARNING: ContentParent: id=1a40a675100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 3352, Main Thread] WARNING: ContentParent: id=1a40a673d00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662042427774	Marionette	INFO	Stopped listening on port 54143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3352, Main Thread] WARNING: ContentParent: id=1a40a673d00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 3352, Main Thread] WARNING: ContentParent: id=1a40a673d00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 3352, Main Thread] WARNING: ContentParent: id=1a40a673d00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 3352, Main Thread] WARNING: ContentParent: id=1a40a673d00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662042436161	geckodriver	INFO	Listening on 127.0.0.1:54168
+1662042439217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilecffSmr"
+1662042439453	Marionette	INFO	Marionette enabled
+1662042439456	Marionette	INFO	Listening on port 54178
+WebDriver BiDi listening on ws://127.0.0.1:54169
+Read port: 54178
+1662042439671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilecffSmr\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+DevTools listening on ws://127.0.0.1:54169/devtools/browser/dc4ed6b9-f5a5-4382-ac12-28ac0eed0c13
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[Parent 4640, Main Thread] WARNING: ContentParent: id=1b23f6df500 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 4640, Main Thread] WARNING: ContentParent: id=1b240a78d00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 4640, Main Thread] WARNING: ContentParent: id=1b23e0f8100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662042458117	Marionette	INFO	Stopped listening on port 54178
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4640, Main Thread] WARNING: ContentParent: id=1b23e0f8100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 4640, Main Thread] WARNING: ContentParent: id=1b23e0f8100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 4640, Main Thread] WARNING: ContentParent: id=1b23e0f8100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 4640, Main Thread] WARNING: ContentParent: id=1b23e0f8100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662042891088	geckodriver	INFO	Listening on 127.0.0.1:54261
+1662042894122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilezQCgQl"
+1662042894355	Marionette	INFO	Marionette enabled
+1662042894359	Marionette	INFO	Listening on port 54271
+WebDriver BiDi listening on ws://127.0.0.1:54262
+Read port: 54271
+1662042894573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilezQCgQl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54262/devtools/browser/fa78c1db-c821-4c33-bc33-184dc012fd44
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[Parent 19408, Main Thread] WARNING: ContentParent: id=26be7390a00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 19408, Main Thread] WARNING: ContentParent: id=26be877db00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 19408, Main Thread] WARNING: ContentParent: id=26be5dfd600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662042943785	Marionette	INFO	Stopped listening on port 54271
+[Parent 19408, Main Thread] WARNING: ContentParent: id=26be5dfd600 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 19408, Main Thread] WARNING: ContentParent: id=26be5dfd600 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 19408, Main Thread] WARNING: ContentParent: id=26be5dfd600 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 19408, Main Thread] WARNING: ContentParent: id=26be5dfd600 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662042947138	geckodriver	INFO	Listening on 127.0.0.1:54324
+1662042950183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilebdpsB8"
+1662042950419	Marionette	INFO	Marionette enabled
+1662042950423	Marionette	INFO	Listening on port 54334
+WebDriver BiDi listening on ws://127.0.0.1:54325
+Read port: 54334
+1662042950555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilebdpsB8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54325/devtools/browser/4e5b2060-29fb-4fc9-b8bb-75cf006aea0c
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 1520, Main Thread] WARNING: ContentParent: id=204bd994e00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1520, Main Thread] WARNING: ContentParent: id=204bec9e200 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1520, Main Thread] WARNING: ContentParent: id=204bc3f3500 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662043069429	Marionette	INFO	Stopped listening on port 54334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1520, Main Thread] WARNING: ContentParent: id=204bc3f3500 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 1520, Main Thread] WARNING: ContentParent: id=204bc3f3500 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 1520, Main Thread] WARNING: ContentParent: id=204bc3f3500 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 1520, Main Thread] WARNING: ContentParent: id=204bc3f3500 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662043527746	geckodriver	INFO	Listening on 127.0.0.1:54420
+1662043530803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileOEFqfr"
+1662043531044	Marionette	INFO	Marionette enabled
+1662043531048	Marionette	INFO	Listening on port 54430
+WebDriver BiDi listening on ws://127.0.0.1:54421
+Read port: 54430
+1662043531221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileOEFqfr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54421/devtools/browser/30b4d69f-ba3a-429c-bad7-3767ca0e54cc
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[Parent 11236, Main Thread] WARNING: ContentParent: id=1c88f1662043699904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofile8CiJGM"
+1662043700142	Marionette	INFO	Marionette enabled
+1662043700145	Marionette	INFO	Listening on port 54492
+WebDriver BiDi listening on ws://127.0.0.1:54483
+Read port: 54492
+1662043700319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofile8CiJGM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54483/devtools/browser/92a7040e-9c64-4bef-a94e-13b619ca376c
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662043723739	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043724340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043724449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662043725130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043725162	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662043725687	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043725869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662043726578	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043726579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662043727140	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043727303	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662043727891	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043728016	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Parent 16848, Main Thread] WARNING: ContentParent: id=21f6de6e300 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 16848, Main Thread] WARNING: ContentParent: id=21f6f1fa400 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 16848, Main Thread] WARNING: ContentParent: id=21f6f1f8b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662043728659	Marionette	INFO	Stopped listening on port 54492
+[Parent 16848, Main Thread] WARNING: ContentParent: id=21f6f1f8b00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 16848, Main Thread] WARNING: ContentParent: id=21f6f1f8b00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 16848, Main Thread] WARNING: ContentParent: id=21f6f1f8b00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 16848, Main Thread] WARNING: ContentParent: id=21f6f1f8b00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662043776776	geckodriver	INFO	Listening on 127.0.0.1:54532
+1662043779821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilevfnwoL"
+1662043780054	Marionette	INFO	Marionette enabled
+1662043780057	Marionette	INFO	Listening on port 54542
+WebDriver BiDi listening on ws://127.0.0.1:54533
+Read port: 54542
+1662043780239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilevfnwoL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54533/devtools/browser/70b85a01-60de-4344-8c1f-8dcc5ad95680
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662043803636	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662043803915	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043804450	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043804628	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662043805333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043805338	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662043805820	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662043806061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 7940, Main Thread] WARNING: ContentParent: id=1e485fb9f00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7940, Main Thread] WARNING: ContentParent: id=1e48749e100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7940, Main Thread] WARNING: ContentParent: id=1e4849f8100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662043849427	Marionette	INFO	Stopped listening on port 54542
+[Parent 7940, Main Thread] WARNING: ContentParent: id=1e4849f8100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 7940, Main Thread] WARNING: ContentParent: id=1e4849f8100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 7940, Main Thread] WARNING: ContentParent: id=1e4849f8100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 7940, Main Thread] WARNING: ContentParent: id=1e4849f8100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662043849875	geckodriver	INFO	Listening on 127.0.0.1:54590
+1662043852922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileBvx9Nv"
+1662043853162	Marionette	INFO	Marionette enabled
+1662043853165	Marionette	INFO	Listening on port 54600
+Read port: 54600
+WebDriver BiDi listening on ws://127.0.0.1:54591
+1662043853307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileBvx9Nv\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+DevTools listening on ws://127.0.0.1:54591/devtools/browser/713ca7dc-55e4-47c8-b9b8-1f5dbc76590d
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[Parent 3276, Main Thread] WARNING: ContentParent: id=2596e996200 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 3276, Main Thread] WARNING: ContentParent: id=2596fca2600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 3276, Main Thread] WARNING: ContentParent: id=25970c28b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662043926509	Marionette	INFO	Stopped listening on port 54600
+[Parent 3276, Main Thread] WARNING: ContentParent: id=25970c28b00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 3276, Main Thread] WARNING: ContentParent: id=25970c28b00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 3276, Main Thread] WARNING: ContentParent: id=25970c28b00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 3276, Main Thread] WARNING: ContentParent: id=25970c28b00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662043926727	geckodriver	INFO	Listening on 127.0.0.1:54649
+1662043929776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilemBwYif"
+1662043930014	Marionette	INFO	Marionette enabled
+1662043930018	Marionette	INFO	Listening on port 54659
+WebDriver BiDi listening on ws://127.0.0.1:54650
+Read port: 54659
+1662043930208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilemBwYif\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54650/devtools/browser/cc8a20bf-02a2-42de-bdf8-0017e427eaa4
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[Parent 16168, Main Thread] WARNING: ContentParent: id=2498c1662043969808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilezF8cem"
+1662043970041	Marionette	INFO	Marionette enabled
+1662043970044	Marionette	INFO	Listening on port 54710
+WebDriver BiDi listening on ws://127.0.0.1:54701
+Read port: 54710
+1662043970269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilezF8cem\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+DevTools listening on ws://127.0.0.1:54701/devtools/browser/a4420506-b7ab-447f-bb05-a09623d4dec1
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662043993855	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 1668, Main Thread] WARNING: ContentParent: id=1b5d18d8200 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1668, Main Thread] WARNING: ContentParent: id=1b5d2c74800 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1668, Main Thread] WARNING: ContentParent: id=1b5d2c71600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662044021711	Marionette	INFO	Stopped listening on port 54710
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1668, Main Thread] WARNING: ContentParent: id=1b5d2c71600 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 1668, Main Thread] WARNING: ContentParent: id=1b5d2c71600 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 1668, Main Thread] WARNING: ContentParent: id=1b5d2c71600 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 1668, Main Thread] WARNING: ContentParent: id=1b5d2c71600 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662044024812	geckodriver	INFO	Listening on 127.0.0.1:54751
+1662044027860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilewpKrnl"
+1662044028095	Marionette	INFO	Marionette enabled
+1662044028099	Marionette	INFO	Listening on port 54761
+WebDriver BiDi listening on ws://127.0.0.1:54752
+Read port: 54761
+1662044028280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilewpKrnl\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+DevTools listening on ws://127.0.0.1:54752/devtools/browser/aca4f874-4ec8-4cec-847a-d6c6c85e05dc
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662044052233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662044052297	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: quickactions-logins
+[fluent] Missing message in locale es-ES: quickactions-private
+[fluent] Missing message in locale es-ES: urlbar-group-quickactions
+[fluent] Missing message in locale es-ES: urlbar-group-quickactions
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: quickactions-addons
+[fluent] Missing message in locale es-ES: quickactions-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-clearhistory
+[fluent] Missing message in locale es-ES: urlbar-group-quickactions
+[fluent] Missing message in locale es-ES: quickactions-logins
+[fluent] Missing message in locale es-ES: quickactions-private
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 7796, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a894fa4a00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a89638b600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a8939f8b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a89cc6b700 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662045657300	Marionette	INFO	Stopped listening on port 54761
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a8939f8b00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a8939f8b00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a89cc6b700 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a89cc6b700 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a8939f8b00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a8939f8b00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a89cc6b700 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 7796, Main Thread] WARNING: ContentParent: id=1a89cc6b700 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662046034623	geckodriver	INFO	Listening on 127.0.0.1:55436
+1662046037655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileYCqwAT"
+1662046037936	Marionette	INFO	Marionette enabled
+1662046037941	Marionette	INFO	Listening on port 55452
+Read port: 55452
+WebDriver BiDi listening on ws://127.0.0.1:55437
+1662046038046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileYCqwAT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55437/devtools/browser/4a7c9782-26ee-4e82-984e-b6726c633e3a
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662046071842	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662046072240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 11252, Main Thread] WARNING: ContentParent: id=24fe338ce00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 11252, Main Thread] WARNING: ContentParent: id=24fe47f4000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 11252, Main Thread] WARNING: ContentParent: id=24fe58eb200 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662046663925	Marionette	INFO	Stopped listening on port 55452
+[Parent 11252, Main Thread] WARNING: ContentParent: id=24fe58eb200 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 11252, Main Thread] WARNING: ContentParent: id=24fe58eb200 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 11252, Main Thread] WARNING: ContentParent: id=24fe58eb200 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 11252, Main Thread] WARNING: ContentParent: id=24fe58eb200 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662046959892	geckodriver	INFO	Listening on 127.0.0.1:55626
+1662046962946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilevBYc2A"
+1662046963191	Marionette	INFO	Marionette enabled
+1662046963194	Marionette	INFO	Listening on port 55636
+WebDriver BiDi listening on ws://127.0.0.1:55627
+Read port: 55636
+1662046963310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilevBYc2A\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+DevTools listening on ws://127.0.0.1:55627/devtools/browser/0f9abbda-2f03-48a9-a5b0-1ee4a27e2866
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[Parent 18352, Main Thread] WARNING: ContentParent: id=1364ed1bd00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 18352, Main Thread] WARNING: ContentParent: id=1365007a500 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 18352, Main Thread] WARNING: ContentParent: id=1365007a000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662047018519	Marionette	INFO	Stopped listening on port 55636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18352, Main Thread] WARNING: ContentParent: id=1365007a000 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 18352, Main Thread] WARNING: ContentParent: id=1365007a000 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 18352, Main Thread] WARNING: ContentParent: id=1365007a000 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 18352, Main Thread] WARNING: ContentParent: id=1365007a000 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662047059189	geckodriver	INFO	Listening on 127.0.0.1:55686
+1662047062275	geckodriver	INFO	Listening on 127.0.0.1:55691
+1662047065327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileYpviit"
+1662047065561	Marionette	INFO	Marionette enabled
+1662047065564	Marionette	INFO	Listening on port 55701
+WebDriver BiDi listening on ws://127.0.0.1:55692
+Read port: 55701
+1662047065781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileYpviit\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+DevTools listening on ws://127.0.0.1:55692/devtools/browser/5c03d2f4-5101-47be-9ec2-308f2cc2b2c1
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662047088943	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: quickactions-addons
+[fluent] Missing message in locale es-ES: urlbar-group-quickactions
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://chimpstatic.com/mcjs-connected/js/users/59981fed96bf683c55cfcd3c2/bf6673d17a6b3faf292ef1003.js, line 116: TypeError: can't access property "appendChild", document.body is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b37b68100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b38fb9a00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b38fbbd00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b3d656900 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b3d3e2000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b3cdecb00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b424dd000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662047823413	Marionette	INFO	Stopped listening on port 55701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b38fbbd00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b38fbbd00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b424dd000 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b424dd000 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b38fbbd00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b38fbbd00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b424dd000 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 7412, Main Thread] WARNING: ContentParent: id=21b424dd000 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+fd00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d556b03100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+1662047423801	Marionette	INFO	Stopped listening on port 55825
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d55919fd00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d55919fd00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d556b03100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d556b03100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d55919fd00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d55919fd00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d556b03100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 12184, Main Thread] WARNING: ContentParent: id=1d556b03100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662047439952	geckodriver	INFO	Listening on 127.0.0.1:55838
+1662047442987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilebDhy1o"
+1662047443225	Marionette	INFO	Marionette enabled
+1662047443228	Marionette	INFO	Listening on port 55848
+WebDriver BiDi listening on ws://127.0.0.1:55839
+Read port: 55848
+1662047443399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilebDhy1o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55839/devtools/browser/6a7a2abe-8583-4a9c-8839-0c2e23bb9633
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662047466887	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662047466989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 10032, Main Thread] WARNING: ContentParent: id=22efd1662047566425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileHGb36B"
+1662047566656	Marionette	INFO	Marionette enabled
+1662047566659	Marionette	INFO	Listening on port 55945
+WebDriver BiDi listening on ws://127.0.0.1:55936
+Read port: 55945
+1662047566887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileHGb36B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55936/devtools/browser/72ddfc1a-2a33-4466-b8f9-b6c06d9957ff
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662047590148	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 17316, Main Thread] WARNING: ContentParent: id=21586478d00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 17316, Main Thread] WARNING: ContentParent: id=21587987400 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 17316, Main Thread] WARNING: ContentParent: id=21588927c00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662047821661	Marionette	INFO	Stopped listening on port 55945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17316, Main Thread] WARNING: ContentParent: id=21588927c00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 17316, Main Thread] WARNING: ContentParent: id=21588927c00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 17316, Main Thread] WARNING: ContentParent: id=21588927c00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 17316, Main Thread] WARNING: ContentParent: id=21588927c00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileXnmz3w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55998/devtools/browser/d2ad1a52-4cea-4561-9172-cac9c78d55ef
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662047681393	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: quickactions-addons
+[fluent] Missing message in locale es-ES: quickactions-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-clearhistory
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498d5e2700 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498e8f6600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 14400, Main Thread] WARNING: ContentParent: id=24991d18600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498d383400 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498e8f8400 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662047819688	Marionette	INFO	Stopped listening on port 56007
+[Parent 14400, Main Thread] WARNING: ContentParent: id=24991d18600 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 14400, Main Thread] WARNING: ContentParent: id=24991d18600 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498e8f8400 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498e8f8400 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 14400, Main Thread] WARNING: ContentParent: id=24991d18600 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 14400, Main Thread] WARNING: ContentParent: id=24991d18600 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498e8f8400 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 14400, Main Thread] WARNING: ContentParent: id=2498e8f8400 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662121671344	geckodriver	INFO	Listening on 127.0.0.1:52189
+1662121674403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofile1PSAi2"
+1662121675787	Marionette	INFO	Marionette enabled
+1662121675795	Marionette	INFO	Listening on port 52212
+Read port: 52212
+WebDriver BiDi listening on ws://127.0.0.1:52190
+1662121676039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofile1PSAi2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52190/devtools/browser/94d52f5f-bc12-433e-9f0a-5536933fb1e9
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662121702183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fd14b700 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fe2f4500 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fbee2900 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662121706638	Marionette	INFO	Stopped listening on port 52212
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fe2f4500 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fe2f4500 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1824
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fbee2900 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fbee2900 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fbee2900 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fbee2900 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/Global/Global_IngresantesTurno.min.js?v=2021090301, line 1: TypeError: can't access property 0, e is undefined
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fe2f4500 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 17324, Main Thread] WARNING: ContentParent: id=242fe2f4500 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662123333737	geckodriver	INFO	Listening on 127.0.0.1:53034
+1662123338979	geckodriver	INFO	Listening on 127.0.0.1:53044
+1662123342062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilemuWrEQ"
+1662123378596	geckodriver	INFO	Listening on 127.0.0.1:53112
+1662123381634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilejZqmEM"
+1662123381930	Marionette	INFO	Marionette enabled
+1662123381933	Marionette	INFO	Listening on port 53123
+Read port: 53123
+WebDriver BiDi listening on ws://127.0.0.1:53113
+1662123382047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilejZqmEM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53113/devtools/browser/21c0736a-495a-46d7-8f31-7e3bdd521499
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662123448941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662123451490	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662123451666	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f4a6cf00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f5ce3600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f3a74000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662123459081	Marionette	INFO	Stopped listening on port 53123
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f5ce3600 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f5ce3600 - ShutDownProcess: Shutdown already pending.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1824
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f3a74000 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f3a74000 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f3a74000 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f3a74000 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/assets/js/core/jquery.3.2.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f5ce3600 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 17860, Main Thread] WARNING: ContentParent: id=283f5ce3600 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662124201223	geckodriver	INFO	Listening on 127.0.0.1:53444
+1662124204273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilemMpb40"
+1662124204541	Marionette	INFO	Marionette enabled
+1662124204544	Marionette	INFO	Listening on port 53454
+Read port: 53454
+WebDriver BiDi listening on ws://127.0.0.1:53445
+1662124204651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+1662124220251	geckodriver	INFO	Listening on 127.0.0.1:53460
+1662124223297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofile4ng2vI"
+1662124223553	Marionette	INFO	Marionette enabled
+1662124223556	Marionette	INFO	Listening on port 53470
+Read port: 53470
+WebDriver BiDi listening on ws://127.0.0.1:53461
+1662124223658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofile4ng2vI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53461/devtools/browser/9d08b3f7-2119-4e2b-88cf-f599f8d6d60d
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124247178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662124247377	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124247401	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[Parent 5920, Main Thread] WARNING: ContentParent: id=2356d3cac00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 5920, Main Thread] WARNING: ContentParent: id=2356e791b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 5920, Main Thread] WARNING: ContentParent: id=2357022e500 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124267745	Marionette	INFO	Stopped listening on port 53470
+[Parent 5920, Main Thread] WARNING: ContentParent: id=2357022e500 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 5920, Main Thread] WARNING: ContentParent: id=2357022e500 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 5920, Main Thread] WARNING: ContentParent: id=2357022e500 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 5920, Main Thread] WARNING: ContentParent: id=2357022e500 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662124598576	geckodriver	INFO	Listening on 127.0.0.1:53566
+1662124601630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileP4kKdg"
+1662124601868	Marionette	INFO	Marionette enabled
+1662124601871	Marionette	INFO	Listening on port 53576
+WebDriver BiDi listening on ws://127.0.0.1:53567
+Read port: 53576
+1662124602096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileP4kKdg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53567/devtools/browser/4cc7c39a-a67a-407c-9cb9-768d7d94de4d
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124625406	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[Parent 1760, Main Thread] WARNING: ContentParent: id=27f31e71600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1760, Main Thread] WARNING: ContentParent: id=27f33394b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1760, Main Thread] WARNING: ContentParent: id=27f309f8100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124771762	Marionette	INFO	Stopped listening on port 53576
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1760, Main Thread] WARNING: ContentParent: id=27f309f8100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 1760, Main Thread] WARNING: ContentParent: id=27f309f8100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 1760, Main Thread] WARNING: ContentParent: id=27f309f8100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 1760, Main Thread] WARNING: ContentParent: id=27f309f8100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+n locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofiletHQjVJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53641/devtools/browser/626bc554-d953-40bb-899f-174e3d1702ab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662124706696	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124709341	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662124709419	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662124709624	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124709641	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[Parent 12972, Main Thread] WARNING: ContentParent: id=2c46dc93000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12972, Main Thread] WARNING: ContentParent: id=2c46f0a4b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12972, Main Thread] WARNING: ContentParent: id=2c46c7f9000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124769622	Marionette	INFO	Stopped listening on port 53650
+[Parent 12972, Main Thread] WARNING: ContentParent: id=2c46c7f9000 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 12972, Main Thread] WARNING: ContentParent: id=2c46c7f9000 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 12972, Main Thread] WARNING: ContentParent: id=2c46c7f9000 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 12972, Main Thread] WARNING: ContentParent: id=2c46c7f9000 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+ons-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilecYIsyV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53707/devtools/browser/d58b6d93-3adf-4009-ab5e-941c069dba86
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124786679	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662124786880	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662124786906	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: home-mode-choice-default-fx
+[fluent] Missing message in locale es-ES: home-mode-choice-default-fx
+[fluent] Missing message in locale es-ES: home-prefs-content-header2
+[fluent] Missing message in locale es-ES: home-prefs-content-description2
+[fluent] Missing message in locale es-ES: addressbar-locbar-quickactions-option
+[fluent] Missing message in locale es-ES: addressbar-quickactions-learn-more
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 18804, Main Thread] WARNING: ContentParent: id=1f6535cb000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 18804, Main Thread] WARNING: ContentParent: id=1f64f986a00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 18804, Main Thread] WARNING: ContentParent: id=1f652504f00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125182830	Marionette	INFO	Stopped listening on port 53716
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18804, Main Thread] WARNING: ContentParent: id=1f652504f00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 18804, Main Thread] WARNING: ContentParent: id=1f652504f00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 18804, Main Thread] WARNING: ContentParent: id=1f652504f00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 18804, Main Thread] WARNING: ContentParent: id=1f652504f00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+n locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofilexvVrOK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53830/devtools/browser/c3a0ddeb-fdbf-4cf4-8b89-228eb3b039b1
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662125124567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662125127279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125129416	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662125129618	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125129634	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 7064, Main Thread] WARNING: ContentParent: id=26063190600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7064, Main Thread] WARNING: ContentParent: id=26064599f00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 7064, Main Thread] WARNING: ContentParent: id=260656e3100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125189283	Marionette	INFO	Stopped listening on port 53839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7064, Main Thread] WARNING: ContentParent: id=260656e3100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 7064, Main Thread] WARNING: ContentParent: id=260656e3100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 7064, Main Thread] WARNING: ContentParent: id=260656e3100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 7064, Main Thread] WARNING: ContentParent: id=260656e3100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662125195824	geckodriver	INFO	Listening on 127.0.0.1:53891
+1662125198878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53892" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileHqj0g3"
+1662125199115	Marionette	INFO	Marionette enabled
+1662125199118	Marionette	INFO	Listening on port 53901
+WebDriver BiDi listening on ws://127.0.0.1:53892
+Read port: 53901
+1662125199293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileHqj0g3\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale es-ES: quickactions-screenshot2
+DevTools listening on ws://127.0.0.1:53892/devtools/browser/69082f2d-b912-40a5-b2f9-df52e9174767
+[fluent] Missing message in locale es-ES: urlbar-group-quickactions
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662125220952	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125223479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662125223675	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[Parent 1740, Main Thread] WARNING: ContentParent: id=1e294f90c00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1740, Main Thread] WARNING: ContentParent: id=1e296892400 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 1740, Main Thread] WARNING: ContentParent: id=1e293afc200 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125291289	Marionette	INFO	Stopped listening on port 53901
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1740, Main Thread] WARNING: ContentParent: id=1e293afc200 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 1740, Main Thread] WARNING: ContentParent: id=1e293afc200 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 1740, Main Thread] WARNING: ContentParent: id=1e293afc200 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 1740, Main Thread] WARNING: ContentParent: id=1e293afc200 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofiler2LR8t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53974/devtools/browser/3a47b8c6-9ae3-4e64-b93a-4085b0226011
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125299905	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125302135	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125302163	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 12340, Main Thread] WARNING: ContentParent: id=2a0c8c9bb00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12340, Main Thread] WARNING: ContentParent: id=2a0ca495500 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12340, Main Thread] WARNING: ContentParent: id=2a0c7b08100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125435514	Marionette	INFO	Stopped listening on port 53983
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12340, Main Thread] WARNING: ContentParent: id=2a0c7b08100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 12340, Main Thread] WARNING: ContentParent: id=2a0c7b08100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 12340, Main Thread] WARNING: ContentParent: id=2a0c7b08100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 12340, Main Thread] WARNING: ContentParent: id=2a0c7b08100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662125683354	geckodriver	INFO	Listening on 127.0.0.1:54330
+1662125686387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileOm9jxq"
+1662125686627	Marionette	INFO	Marionette enabled
+1662125686631	Marionette	INFO	Listening on port 54340
+WebDriver BiDi listening on ws://127.0.0.1:54331
+Read port: 54340
+1662125686809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileOm9jxq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54331/devtools/browser/4a79b4c8-73c9-42a5-85a5-b7721f870699
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662125710381	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 6704, Main Thread] WARNING: ContentParent: id=1e52249cf00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 6704, Main Thread] WARNING: ContentParent: id=1e523c9a300 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 6704, Main Thread] WARNING: ContentParent: id=1e5267d0e00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662128989742	Marionette	INFO	Stopped listening on port 54340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6704, Main Thread] WARNING: ContentParent: id=1e5267d0e00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 6704, Main Thread] WARNING: ContentParent: id=1e5267d0e00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 6704, Main Thread] WARNING: ContentParent: id=1e5267d0e00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 6704, Main Thread] WARNING: ContentParent: id=1e5267d0e00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+issing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileXNlA5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54464/devtools/browser/b0ec7764-1052-464b-8d83-09c58a498793
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662126058177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662126058204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662126058406	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662126058429	Marionette	ERROR	TypeError: can't access property "modalType", this.args is null(chrome://remote/content/marionette/modal.js:317:1) JS Stack trace: get isWindowModal@modal.js:317:1
+GeckoDriver.prototype.setWindowHandle@driver.js:1300:16
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: quickactions-screenshot2
+[fluent] Missing message in locale es-ES: urlbar-group-quickactions
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2624 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f4056bee00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f406991000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f4040fd600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f407fe7f00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f40b892100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f40a6d1b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662128597114	Marionette	INFO	Stopped listening on port 54473
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f4040fd600 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f4040fd600 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f40a6d1b00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f40a6d1b00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f4040fd600 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f4040fd600 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f40a6d1b00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 2680, Main Thread] WARNING: ContentParent: id=1f40a6d1b00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662126354485	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 15992, Main Thread] WARNING: ContentParent: id=1c299a63b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 15992, Main Thread] WARNING: ContentParent: id=1c29b377e00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 15992, Main Thread] WARNING: ContentParent: id=1c298803b00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662128595175	Marionette	INFO	Stopped listening on port 54707
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15992, Main Thread] WARNING: ContentParent: id=1c298803b00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 15992, Main Thread] WARNING: ContentParent: id=1c298803b00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 15992, Main Thread] WARNING: ContentParent: id=1c298803b00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 15992, Main Thread] WARNING: ContentParent: id=1c298803b00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileJKYWot\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54847/devtools/browser/59feaea8-7d03-404c-bd33-646d4677ed3b
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662126585819	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6c88c000 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6dc23600 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6b3fcc00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6803e100 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662128995155	Marionette	INFO	Stopped listening on port 54856
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6b3fcc00 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6b3fcc00 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6803e100 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6803e100 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6b3fcc00 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6b3fcc00 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6803e100 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 12736, Main Thread] WARNING: ContentParent: id=27f6803e100 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
+1662213452610	geckodriver	INFO	Listening on 127.0.0.1:56762
+1662213455674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileKKPlYf"
+1662213456160	Marionette	INFO	Marionette enabled
+1662213456165	Marionette	INFO	Listening on port 56776
+Read port: 56776
+WebDriver BiDi listening on ws://127.0.0.1:56763
+1662213456614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: refresh-profile-instead
+[fluent] Missing message in locale en-US: refresh-profile-instead
+[fluent] Couldn't find a message: refresh-profile-instead
+[dom/l10n] Could not complete initial document translation.
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-link-2
+[fluent] Missing message in locale es-ES: main-context-menu-image-copy-text
+[fluent] Missing message in locale es-ES: text-action-paste-no-formatting
+[fluent] Missing message in locale es-ES: main-context-menu-print-selection-2
+[fluent] Missing message in locale es-ES: main-context-menu-frame-add-bookmark
+[fluent] Missing message in locale es-ES: page-action-manage-extension2
+[fluent] Missing message in locale es-ES: page-action-remove-extension2
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: unified-extensions-button
+[fluent] Missing message in locale es-ES: quickactions-cmd-addons
+[fluent] Missing message in locale es-ES: quickactions-cmd-bookmarks
+[fluent] Missing message in locale es-ES: quickactions-cmd-clearhistory
+[fluent] Missing message in locale es-ES: quickactions-cmd-downloads
+[fluent] Missing message in locale es-ES: quickactions-cmd-inspector
+[fluent] Missing message in locale es-ES: quickactions-cmd-logins
+[fluent] Missing message in locale es-ES: quickactions-cmd-print
+[fluent] Missing message in locale es-ES: quickactions-cmd-private
+[fluent] Missing message in locale es-ES: quickactions-cmd-refresh
+[fluent] Missing message in locale es-ES: quickactions-cmd-restart
+[fluent] Missing message in locale es-ES: quickactions-cmd-screenshot
+[fluent] Missing message in locale es-ES: quickactions-cmd-settings
+[fluent] Missing message in locale es-ES: quickactions-cmd-update
+[fluent] Missing message in locale es-ES: quickactions-cmd-viewsource
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PALACI~1\\AppData\\Local\\Temp\\rust_mozprofileKKPlYf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56763/devtools/browser/09896736-2333-429b-94cd-aeffe595712c
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+[fluent] Missing message in locale es-ES: main-context-menu-bookmark-page-with-shortcut
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://virtual.autonoma.edu.pe."
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+JavaScript error: https://virtual.autonoma.edu.pe/CampusVirtual/ua/defEst.config.min.js?v=2022082401, line 1: TypeError: a.children(...).steps is not a function
+1662213493922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662213496442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662213496653	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662213497143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662213497375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[fluent] Missing message in locale es-ES: tab-context-bookmark-tab
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[Parent 3212, Main Thread] WARNING: ContentParent: id=17fa38a4e00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 3212, Main Thread] WARNING: ContentParent: id=17fa76b3c00 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[Parent 3212, Main Thread] WARNING: ContentParent: id=17fa7bf2500 - BlockShutdown: NotifyImpendingShutdown.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3626
+[fluent] Missing message in locale es-ES: menu-bookmark-tab
+1662213659457	Marionette	INFO	Stopped listening on port 56776
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3212, Main Thread] WARNING: ContentParent: id=17fa7bf2500 - BlockShutdown: CanSend.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3671
+[Parent 3212, Main Thread] WARNING: ContentParent: id=17fa7bf2500 - ShutDownProcess: Sent shutdown message.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1803
+[Parent 3212, Main Thread] WARNING: ContentParent: id=17fa7bf2500 - ShutDownProcess: Closing channel.: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:1843
+[Parent 3212, Main Thread] WARNING: ContentParent: id=17fa7bf2500 - RemoveShutdownBlockers: file /builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp:3786
